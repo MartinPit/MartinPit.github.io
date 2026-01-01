@@ -58,9 +58,10 @@
     },
     {
     "name": "martin's server",
-    "address": "http://100.109.139.90:6969"
+    "address": "http://78.45.76.232:6969"
 
     }  
 ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+
 }
